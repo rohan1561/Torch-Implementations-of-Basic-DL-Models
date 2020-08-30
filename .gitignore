@@ -3,5 +3,6 @@
 /clip
 /rough
 img_align_celeba.zip
-..gitignore.un~
 .gitignore~
+*.un~
+*.*~
